@@ -1,0 +1,20 @@
+.header-spacer {
+    flex: 1 1 auto;
+  }
+.mat-toolbar{
+  background-color: rgb(112, 111, 111);
+  color: #fff;
+  .app-title{
+    padding-left: 20px;
+  }
+}
+.content-container{
+  height: 100%;
+  min-height: 100vh;
+  border: 1px solid #ddd;
+}
+.sidebar{
+  background-color: #d8d5d5;
+  height:100%;
+  width:200px;
+}

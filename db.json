@@ -1,0 +1,50 @@
+{
+    "creditcards": [
+      {
+        "id": 1,
+        "cardName": "Equity Mastercard",
+        "bankName": "Equity Bank",
+        "description": "Earn rewards on every purchase",
+        "maxCredit": 10000,
+        "active": true,
+        "annualFee": 1,
+        "interestRate": 15.99,
+        "introOffer": 200,
+        "recommendedCreditScore": "600-800",
+        "NumberOfApplications": 500,
+        "createdDate": "2024-03-07",
+        "termsAndConditions": "Terms and conditions apply"
+      },  
+      {
+        "id": 2,
+        "cardName": "I&M Mastercard",
+        "bankName": "I&M Bank",
+        "description": "Earn rewards on every purchase",
+        "maxCredit": 10000,
+        "active": true,
+        "annualFee": 1,
+        "interestRate": 15.99,
+        "introOffer": 200,
+        "recommendedCreditScore": "600-800",
+        "NumberOfApplications": 500,
+        "createdDate": "2024-03-03",
+        "termsAndConditions": "Terms and conditions apply"
+      },
+      {
+        "id": 3,
+        "cardName": "KCB Mastercard",
+        "bankName": "KCB Bank",
+        "description": "Earn rewards on every purchase",
+        "maxCredit": 10000,
+        "active": true,
+        "annualFee": 1,
+        "interestRate": 15.99,
+        "introOffer": 200,
+        "recommendedCreditScore": "600-800",
+        "NumberOfApplications": 50,
+        "createdDate": "2024-03-07",
+        "termsAndConditions": "Terms and conditions apply"
+      }
+    ]
+  }
+  
